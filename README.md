@@ -1,5 +1,5 @@
 # Java Geohash Implementation
-This is a class which provides an implementation of GeoHashes, completed as part of graduate coursework.
+This is a class which provides an implementation of Geohashes, completed as part of graduate coursework.
 
 ***Overview:***
 What is a Geohash? </br>
